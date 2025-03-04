@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Archenemy is tackling a unique yet underserved problem in the global community—helping professionals find their ultimate rival to push their skills to the next level. Just as competition drives innovation, having a nemesis can foster growth, motivation, and a deeper engagement with one's craft. In this first phase, our UX team has focused on laying a strong foundation for an intuitive and compelling user experience. We developed detailed personas and scenarios to ensure our design decisions align with real user needs, conducted heuristic evaluations to identify potential usability issues early, and created individual UI sketches—from which we will ultimately synthesize the best elements into a cohesive, group-designed interface. This phase has set the stage for a frictionless, engaging, and purpose-driven user journey.
 
 ## Methods
 
