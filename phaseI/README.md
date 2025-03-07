@@ -6,11 +6,11 @@ Archenemy is tackling a unique yet underserved problem in the global communityâ€
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!!
+Our team of UX designers (n = 3) used three different research methods so far: Competitive Analysis, Personas/Scenarios, and a Competitive Heuristic Evaluation. For the competitive analysis, we searched the web for products near our app's current market and arranged a list of our top competitors. As the search continued, we started to come across companies that are similar to ours in flavor, but not necessarily direct competitors. We did this to understand how much of the market is already tapped, and whether or not we have any scape to capture. For the Personas/Scenarios, we had all three of our designers come up with a persona that would use the app. Afterwards, we had all three designers create a scenario for a different persona than the one they designed. As for the competitive analysis, we took a deep dive into our top competitor; Tinder.
 
 ## Findings
 
-!!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!!
+The team came up with many useful insights from the research. From the competitive analysis, we discovered that there is a highly untapped market for our app's particular set of users. There is no other company that attempts to do what we are doing. From the personas/scenarios, we came to the conclusion that our users must have a strong reason to open the app. This idea boils down to the idea that we need to convince users that there is a void in their life that only our app can fill, and that we are faithfully filling it. From the heuristic evaluation, we determined that Tinder is the #1 dating app on mobile for a very good reason. They scored very highly on almost all of the heuristics (Jakob Nielsen's 10 Usability Heuristics for User Interface Design), from which we determined that they can be a very useful source of design ideas and business decisions to further our apps potency.
 
 ## Conclusions
 
