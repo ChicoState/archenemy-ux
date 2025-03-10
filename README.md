@@ -4,7 +4,7 @@
 
 ## UX Team Members
 
-* **[!!!Person A name!!!](!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
+* **[Alexander Haga](!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
 * **[!!!Person B name!!!](!!!URL to Person B's published UX journal!!!)** - !!!List of Person B's primary contributions!!!
 * **[!!!Person C name!!!](!!!URL to Person C's published UX journal!!!)** - !!!List of Person C's primary contributions!!!
 
@@ -19,7 +19,7 @@
 
 **Executive Summary**
 
-!!!Put phase I Executive Summary here!!!
+The initial phase of Archenemy has set a dynamic foundation for an app designed to empower professionals by pairing them with a worthy rival. Using a blend of competitive analysis (with insights drawn from leaders like Tinder), detailed persona creation, and heuristic evaluations, we uncovered a uniquely untapped market and distilled key design imperatives that emphasize clarity, intuitive interaction, and a compelling user journey. Although the findings are based on subjective methods without direct user testing, the research has effectively mapped out both the innovative potential and the critical areas requiring further empirical validation, ensuring that the subsequent design phases will be deeply aligned with real-world user needs.
 
 [Full phase I report](phaseI/)
 
