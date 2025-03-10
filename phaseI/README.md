@@ -14,8 +14,8 @@ The team came up with many useful insights from the research. From the competiti
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Based on the research, the target audience for this app is very unique. However, many ideas and affordances from the identified competitors can be used in this app in order to make it easily learnable. Since the identified competitors scored very well on the heuristic evaluation and other tests, it's important to clearly identify the users' needs to make the app as effective and efficient as possible. Making the purpose of the app very clear is also important to distinguish this app from its identified competitors and appeal to the target audience.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+All of the research methods that were conducted (Competitive Analysis, Personas/Scenarios, Competitive Heuristic Evaluation) did not involve actual users, and thus were subjective. Further research with target users is needed for more accurate results. Our team also is also new to the UX analysis and some errors or misjudgements might have been made. Since the target audience is quite unique, the choice of competitors was subjective as well. Only after conducting more research with actual users, can we judge if our conceptual model is well aligned with users' mental model. Further methods of research might include: interviews, focus groups, surveys.
