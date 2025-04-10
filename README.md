@@ -33,7 +33,7 @@ However, our research and validation efforts were constrained by several limitat
 
 1. Only one cognitive walkthrough was conducted, focusing solely on the matchmaking functionality
 2. Informal peer feedback was not received from the Software Engineering team despite a structured process
-3. All feedback came from individuals with software/tech backgrounds, potentially limiting perspective diversity
+3. All feedback came from individuals with software/tech backgrounds, limiting perspective diversity
 
 Based on these findings, we have maintained the core structure of our wireframe design artifact while implementing minor stylistic refinements to enhance visual clarity. No significant changes to our personas or scenarios were deemed necessary, as the cognitive walkthrough confirmed their validity for the primary user flow. The limited scope of our evaluation has highlighted the need for additional research into secondary functionalities to ensure comprehensive usability across all features of the Archenemy app.
 
