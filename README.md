@@ -1,10 +1,10 @@
 # Archenemy
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+A professional matching platform that helps you find your nemesis! Don't just get mad, get even.
 
 ## UX Team Members
 
-* **[Alexander Haga](!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
+* **[Alexander Haga](https://github.com/UsabilityEngineering/portfolio-infinimineralex/tree/main)** - Phase I intro and exec. summary, Phase II report, wireframe areas
 * **[Ivan Gavrushenko](https://usabilityengineering.github.io/portfolio-IvanGav/journal/)** - Personas and Scenarios github page, Phase I Conclusion and Caveats
 * **[!!!Person C name!!!](!!!URL to Person C's published UX journal!!!)** - !!!List of Person C's primary contributions!!!
 
