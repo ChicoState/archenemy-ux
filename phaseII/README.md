@@ -28,14 +28,14 @@ The purpose of this method was to gain insights into user perceptions of potenti
 
 ### Cognitive Walkthrough
 
-The cognitive walkthrough performed by Numan Khan from the perspective of the Elong Mask persona provided valuable insights into our matchmaking functionality:
+The cognitive walkthrough performed by Numan Khan from the perspective of the Elong Mask persona provided valuable insights into our matchmaking and chatting functionality:
 
-1. The evaluator successfully accomplished the goal outlined in the "Basement" scenario, confirming that our primary user flow is effective and learnable.
-2. Each step in the process was found to be discrete, traceable, and linear, suggesting a clear path to goal completion.
-3. The walkthrough validated that users can understand what actions to take at each step of the matchmaking process.
+1. The evaluator walked through the "Basement" scenario, and discovered that most of the features in the app are easily learnable. Each step in the process was found to be discrete, traceable, and linear, suggesting a clear path to goal completion.
+2. The goal of opening chat with other users was not accomplished though. When trying to open chat, the user was not able to locate the "Chat" button.
+3. The walkthrough validated that users can understand what actions to take at each step of the matchmaking process, but not when trying to open chat with other users.
 4. The linear progression through the app's matchmaking feature demonstrated that users can follow the intended flow without confusion.
 
-The walkthrough primarily focused on the matchmaking functionality, which is the core feature of the Archenemy app. Secondary features and alternative flows were not evaluated in this process.
+The walkthrough focused on the matchmaking functionality, which is the core feature of the Archenemy app, as well as chatting functionality. Secondary features and alternative flows were not evaluated in this process.
 
 ### Informal Peer Feedback
 
@@ -45,7 +45,7 @@ This gap in our research represents a missed opportunity to incorporate diverse 
 
 ## Conclusions
 
-Based on our findings from the cognitive walkthrough, we have confirmed that our primary matchmaking functionality is well-designed and supports user goals effectively. The discrete, traceable, and linear steps observed in the walkthrough indicate that users should be able to navigate through the matchmaking process with minimal friction.
+Based on our findings from the cognitive walkthrough, we have confirmed that our primary matchmaking functionality is well-designed and supports user goals effectively. The discrete, traceable, and linear steps observed in the walkthrough indicate that users should be able to navigate through the matchmaking process with minimal friction. The results also indicate that the chatting functionality is not as clear as it should be. To improve it, the way to open the chat with other users needs to be communicated more clearly.
 
 However, the limited scope of our evaluation (one persona, one scenario, and one evaluator) means that we have not comprehensively validated all aspects of the application. Secondary functionalities such as profile management, messaging, and competition tracking require additional testing to ensure they meet our usability standards.
 
@@ -58,10 +58,11 @@ Our wireframes have proven effective for the core functionality but may benefit 
 Based on our findings, we recommend the following:
 
 1. Maintain the current flow for the matchmaking functionality, as it has been validated through the cognitive walkthrough.
-2. Implement minor stylistic refinements to the wireframes to enhance visual clarity and emotional engagement.
-3. Expand testing to cover secondary functionalities with multiple personas and scenarios.
-4. Establish a more robust feedback mechanism with the Software Engineering team to ensure timely receipt of user insights.
-5. Consider conducting additional research with participants from diverse backgrounds beyond software/tech to ensure the app appeals to a broader audience.
+2. Make opening chat with other users more learnable. This can be done through putting text instructions, visual mapping or other methods.
+3. Implement minor stylistic refinements to the wireframes to enhance visual clarity and emotional engagement.
+4. Expand testing to cover secondary functionalities with multiple personas and scenarios.
+5. Establish a more robust feedback mechanism with the Software Engineering team to ensure timely receipt of user insights.
+6. Consider conducting additional research with participants from diverse backgrounds beyond software/tech to ensure the app appeals to a broader audience.
 
 ## Caveats
 
