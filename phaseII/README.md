@@ -30,7 +30,7 @@ The purpose of this method was to gain insights into user perceptions of potenti
 
 The cognitive walkthrough performed by Numan Khan from the perspective of the Elong Mask persona provided valuable insights into our matchmaking functionality:
 
-1. The evaluator successfully accomplished the goal outlined in the "Basement" scenario, confirming that our primary user flow is functional and learnable.
+1. The evaluator successfully accomplished the goal outlined in the "Basement" scenario, confirming that our primary user flow is effective and learnable.
 2. Each step in the process was found to be discrete, traceable, and linear, suggesting a clear path to goal completion.
 3. The walkthrough validated that users can understand what actions to take at each step of the matchmaking process.
 4. The linear progression through the app's matchmaking feature demonstrated that users can follow the intended flow without confusion.
