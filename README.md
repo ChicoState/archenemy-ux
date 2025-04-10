@@ -5,7 +5,7 @@
 ## UX Team Members
 
 * **[Alexander Haga](!!!URL to Person A's published UX journal!!!)** - !!!List of Person A's primary contributions!!!
-* **[!!!Person B name!!!](!!!URL to Person B's published UX journal!!!)** - !!!List of Person B's primary contributions!!!
+* **[Ivan Gavrushenko](https://usabilityengineering.github.io/portfolio-IvanGav/journal/)** - Personas and Scenarios github page, Phase I Conclusion and Caveats
 * **[!!!Person C name!!!](!!!URL to Person C's published UX journal!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
