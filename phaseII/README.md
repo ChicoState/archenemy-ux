@@ -30,16 +30,16 @@ The purpose of this method was to gain insights into user perceptions of potenti
 
 The cognitive walkthrough performed by Numan Khan from the perspective of the Elong Mask persona provided valuable insights into our matchmaking and chatting functionality:
 
-1. The evaluator walked through the "Basement" scenario, and discovered that most of the features in the app are easily learnable. Each step in the process was found to be discrete, traceable, and linear, suggesting a clear path to goal completion.
-2. The goal of opening chat with other users was not accomplished though. When trying to open chat, the user was not able to locate the "Chat" button.
-3. The walkthrough validated that users can understand what actions to take at each step of the matchmaking process, but not when trying to open chat with other users.
+1. The evaluator walked through the "Basement" scenario and discovered that most of the features in the app are easily learnable. The evaluator found the registration, dark mode, matchmaking, and swiping features to be achievable. Each step in the process was found to be effective, discrete, traceable, and linear, suggesting a clear path to goal completion.
+2. The goal of opening a chat with other users was not accomplished though. When trying to open chat, the user was not able to locate the "Chat" button.
+3. The walkthrough validated that users can understand what actions to take at each step of the matchmaking process, but not when trying to open a chat with other users.
 4. The linear progression through the app's matchmaking feature demonstrated that users can follow the intended flow without confusion.
 
-The walkthrough focused on the matchmaking functionality, which is the core feature of the Archenemy app, as well as chatting functionality. Secondary features and alternative flows were not evaluated in this process.
+The walkthrough focused on the matchmaking functionality, which is the core feature of the Archenemy app, as well as the chatting functionality. Secondary features and alternative flows were not evaluated in this process.
 
 ### Informal Peer Feedback
 
-Despite our structured approach to gathering informal feedback, we encountered a significant limitation: our Software Engineering team has not yet provided us with the results from the classroom demonstration. The question about archenemy characteristics was posed to approximately 35 students, but the responses were not made available to the UX team for analysis.
+Despite our structured approach to gathering informal feedback, we encountered a significant limitation: our Software Engineering team has not yet provided us with the results from the classroom demonstration. The question about archenemy characteristics was posed to approximately 35 students, but even after repeated queries, the responses were not made available to the UX team for analysis.
 
 This gap in our research represents a missed opportunity to incorporate diverse perspectives into our design refinement process. The absence of this feedback limits our ability to make data-driven decisions about certain aspects of the UI, especially those related to profile creation and matchmaking criteria.
 
