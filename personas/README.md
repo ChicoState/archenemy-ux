@@ -23,7 +23,7 @@
 - Bio:
   - "Technoking of Dogecoin. Part-time supervillain. Full-time basement dweller. Let’s feud so I can screenshot your insults and tweet ‘#Checkmate’." [🚀🔥💎🙌 emojis x12]
 
-![richard_newspaper](richard_newspaper.png)
+![richard_newspaper](richard_newspaper.jpg)
 
 ### PERSONA 2: Richard Newspaper
 
@@ -34,7 +34,7 @@
   - Interacting with interesting people and making new connections
   - Finding new and interesting ways to spend hours
 
-![hatera_ferrari](hatera_ferrari.png)
+![hatera_ferrari](hatera_ferrari.jpg)
 
 ### PERSONA 3: Hatera Ferrari
 
