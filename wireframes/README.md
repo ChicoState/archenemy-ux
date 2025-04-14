@@ -1,20 +1,26 @@
 # Wireframes
+### Simple Task - As a new user, find a match!
 
+First, let's click Register and create a new account
 ![Title Page](Title_Page.png)
+
+Enter your information and click register. This will take you to the Match Page, where you can start swiping on potential Archenemies.
+![Register Page](Register_Page.png)
+
+Interacting with this page will store your likes, and alert you when a match is made! A number will appear next to the Haters bar on the left when a match is found. Click Haters to move to that window.
+![Match Page](Match_Page.png)
+
+Once here, each matched Hater's profile image will appear as a little bubble on the right. Select any face to start a dialouge in the CHat Page.
+![Haters Page](Haters_Page.png)
+
+This is where the magic happens. Send messages in real time to start hating! Congradulations, we have completed the simple scenario! Below are more wireframes that can be accessed by interacting with the website.
+![Chat Page](Chat_Page.png)
 
 ![Login Page](Login_Page.png)
 
-![Register Page](Register_Page.png)
-
-![Match Page](Match_Page.png)
-
-![Haters Page](Haters_Page.png)
-
-![Chat Page](Chat_Page.png)
+![Account Page](Account_Page.png)
 
 ![Settings Page](Settings_Page.png)
-
-![Account_Page](Account_Page.png)
 
 ![Reset Page](Reset_Page.png)
 
