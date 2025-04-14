@@ -25,7 +25,7 @@ Account Management Page: Where you go to update your profile and upload new prof
 Settings Page: A place to change settings of the website. More to come.
 ![Settings Page](Settings_Page.png)
 
-Delete Account Page: Hopefully you don't have to leave! The option is always there though.
+Reset Password Page: For account recovery in case you lose your password.
 ![Reset Page](Reset_Page.png)
 
 Help Page: Common questions and their answers.
