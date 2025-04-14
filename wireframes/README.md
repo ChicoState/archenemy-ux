@@ -1,5 +1,5 @@
 # Wireframes
 
-![!!!Caption for image!!!](!!!filename.png!!!)
+![](!!!Title_Page.png!!!)
 
 !!!Give context by explaining wireframe images!!!
