@@ -6,7 +6,7 @@ A professional matching platform that helps you find your nemesis! Don't just ge
 
 * **[Alexander Haga](https://github.com/UsabilityEngineering/portfolio-infinimineralex/tree/main)** - Phase I intro and exec. summary, Phase II report, wireframe areas
 * **[Ivan Gavrushenko](https://usabilityengineering.github.io/portfolio-IvanGav/journal/)** - Personas and Scenarios github page, Phase I Conclusion and Caveats
-* **[Caleb Ray](https://github.com/UsabilityEngineering/portfolio-epicgy12)** - !!!List of Person C's primary contributions!!!
+* **[Caleb Ray](https://github.com/UsabilityEngineering/portfolio-epicgy12)** - Wireframes, Wireframe Walkthrough, Phase I Methods and Findings
 
 # User-Centered Design Artifacts
 
