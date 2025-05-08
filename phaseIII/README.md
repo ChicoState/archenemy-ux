@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Following our successful Phase II refinement of wireframes, our UX team has now advanced to creating and evaluating a high-fidelity prototype of Archenemy. The primary objective of this phase was to conduct usability testing with actual users to validate the interface design, identify usability issues, and gather insights for further refinement before implementation. Our usability testing aimed to ensure that users can navigate through the core functions of account creation, matchmaking, communication, and profile management with ease and satisfaction. This report details our methodology, findings, and recommendations derived from these evaluations.
 
 ## Methods
 
