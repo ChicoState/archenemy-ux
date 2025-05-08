@@ -25,30 +25,35 @@ We designed five tasks to evaluate different aspects of the user experience:
 
 Participants were instructed to create a new account for themselves.
 This task evaluated the learnability and efficiency of the registration process.
+
 Research questions: Is the account creation process intuitive? Are the required fields clear? Can users complete registration without assistance?
 
 ### Task 2: Finding and Chatting with an Archenemy
 
 Participants were asked to find an archenemy and start a chat to express their hatred.
 This task evaluated the core matchmaking functionality of the app.
+
 Research questions: Is the process of finding and connecting with archenemies intuitive? Is the messaging interface easy to use? Do users understand the "yes/no" archenemy selection mechanism?
 
 ### Task 3: Password Reset
 
 Participants were instructed to reset their account password.
 This task evaluated the findability and usability of account recovery features.
+
 Research questions: Can users locate the password reset function? Is the reset process straightforward and efficient?
 
 ### Task 4: Finding FAQ/Help Information
 
 Participants were asked to access the FAQ for more information.
 This task evaluated information architecture and navigation.
+
 Research questions: Can users easily find help when needed? Is the help content organized in an intuitive location?
 
 ### Task 5: Edit Account Information
 
 Participants were instructed to edit their account and update information.
 This task evaluated the profile management functionality.
+
 Research questions: Is the profile editing process intuitive? Can users easily update their information?
 
 For each task, we collected both quantitative and qualitative data. Quantitative measures included task completion rates (success/failure), ease of use ratings on a 5-point scale (1=Very Difficult, 5=Very Easy), and the likelihood to use the app in real life (1-5 scale). Qualitative measures were verbal think-aloud comments during task completion, observations of user behavior and navigation paths, and feedback during post-test debriefing.
