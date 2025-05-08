@@ -86,7 +86,7 @@ When asked about their likelihood to use the Archenemy app in real life, partici
 
 ### Qualitative Results
 
-Qualitative data from the think-aloud protocol and debriefing sessions revealed several important insights about the user experience:
+Qualitative data from the think-aloud protocol and debriefing sessions revealed these insights:
 
 #### Task 1: Account Creation
 - Users found the registration process straightforward and intuitive
@@ -158,8 +158,82 @@ Most confusing aspects included:
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Based on our findings, we recommend the following design improvements:
+
+1. **Improve Navigation and Information Architecture**
+   - Move Help/FAQ to a more prominent location in the main navigation
+   - Make the Home/Haters tabs visually distinct from other tabs (enhance visual hierarchy)
+   - Ensure consistent naming between "Help" and "FAQ"
+
+2. **Enhance Feedback Mechanisms**
+   - Add clear feedback after matching decisions
+   - Implement notifications for new matches/haters
+   - Provide visual confirmation when actions are completed successfully
+
+3. **Refine Chat Functionality**
+   - Add sender names to all messages for clarity
+   - Consider adding emojis or other expressive elements
+   - Provide more visual distinction in the chat interface
+
+4. **Optimize Account Management**
+   - Move password reset functionality to the Account section
+   - Add real-time preview of profile changes while editing
+   - Clarify the purpose of fields like "subtitle"
+
+5. **Improve Onboarding**
+   - Consider adding a brief tutorial or walkthrough for first-time users
+   - Provide clearer instructions for the matching mechanism (Yes/No vs. swiping)
+   - Add tooltips for unfamiliar elements
+
+6. **Visual Design Enhancements**
+   - Improve color scheme/theme
+   - Reduce whitespace in the home page
+   - Better center profile images
+
+### Features to Maintain
+
+The following aspects of the design were validated by our testing and should be maintained:
+
+1. **Account Creation and Editing**
+   - These processes received the highest ease of use ratings
+   - Users found these flows intuitive and straightforward
+
+2. **Overall Layout and Structure**
+   - Users appreciated the clean, simple layout
+   - Basic navigation was generally understood
+
+3. **Core Matchmaking Concept**
+   - Users found the rivalry concept novel and entertaining
+   - The basic match-and-chat flow is working well
+
+4. **Chat Interface Foundation**
+   - While needing some refinements, the basic chat functionality works
+   - Users successfully found and initiated conversations
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Several limitations should be considered when interpreting our findings:
+
+1. **Sample Size and Composition**
+   - With only 6 participants, our sample size is relatively small
+   - Participants may not represent the full diversity of potential users
+   - Half of our participants had no prior experience with matching apps
+
+2. **Prototype Limitations**
+   - As a Figma prototype, some interactive elements had limited functionality
+   - In a real application, users might encounter different constraints or performance issues
+   - Some user paths may not have been fully implemented in the prototype
+
+3. **Testing Environment**
+   - The controlled testing environment may not reflect real-world usage contexts
+   - Users might behave differently when using the app in their natural environment
+
+4. **Subjective Evaluations**
+   - Ease of use ratings and likelihood to use are subjective measures
+   - Different users may have different thresholds for what constitutes "easy" or "difficult"
+
+5. **Novelty Effect**
+   - The uniqueness of the Archenemy concept may have influenced initial reactions
+   - Long-term engagement might differ from first impressions
+
+Despite these limitations, our usability evaluation provided valuable insights that will guide the refinement of Archenemy. We could create a more intuitive, engaging, and satisfying user experience by addressing the identified issues while maintaining the strengths of our current design.
