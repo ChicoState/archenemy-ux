@@ -10,14 +10,14 @@ For our usability evaluation, we employed a formative evaluation approach combin
 
 The think-aloud protocol required participants to verbalize their thoughts, reactions, and decision-making processes while completing tasks. This provided valuable qualitative data about their mental models, expectations, and areas of confusion.
 
-We recruited 6 participants for our usability study. The participants had varied backgrounds and experiences with matching apps, which provided diverse perspectives on our design. The recruitment diversity included:
+We had 6 participants (n=6) for our usability study. The participants had varied backgrounds and experiences with matching apps, which provided diverse perspectives on our design. The recruitment diversity included:
 
 1. College students >18
 2. Mix of genders
 3. Varied experience with matching apps
 4. Some interest in competitive activities
 
-The usability tests were conducted using our Figma prototype (high-fidelity) with a standardized protocol and script for consistency; the participants' responses were written into our data collection spreadsheet.
+The usability tests were conducted using our Figma prototype (high-fidelity) with a standardized protocol and script for consistency; the participants' responses were written into our data collection spreadsheet. The participants signed an informed consent form, and an in-room moderator followed the protocol to effectively test the prototype.
 
 We designed five tasks to evaluate different aspects of the user experience:
 
@@ -117,44 +117,11 @@ Qualitative data from the think-aloud protocol and debriefing sessions revealed 
 
 ### Background Context
 
-Our background questions revealed that half of our participants had no prior experience with matching apps. Those who did mentioned features they valued:
-- Swiping mechanisms
-- Chat functionality
-- Location-based matching
-- Profile customization
-
-Common frustrations with existing apps included:
-- Ghosting
-- Repetitive interactions
-- Limited filtering options for non-binary users
-
-All participants engaged in some form of competitive activities, most commonly:
-- Video games
-- Sports
-- Friendly competitions with friends
-
-Motivations for competition primarily centered around:
-- Desire to win
-- Improvement of skills
-- Ranking systems
+Our background questions revealed that half of our participants had no prior experience with matching apps. Those who did mentioned features they valued: swiping mechanisms, chat functionality, location-based matching, and profile customization. Common frustrations with existing apps included ghosting, repetitive interactions, and limited filtering options for non-binary users. All participants engaged in some form of competitive activities, most commonly video games, sports, and friendly competitions with friends. Motivations for competition primarily centered around the simple desire to WIN.
 
 ### Overall Impressions
 
-Participants generally found the Archenemy concept novel and entertaining:
-- "Great idea, hilarious"
-- "Really excited, not sure if needed but a fun app"
-- "Cool app if [you] want to 'brawl'"
-
-Most valued features included:
-- The main matchmaking functionality
-- Chat pages
-- The overall concept of finding rivals
-
-Most confusing aspects included:
-- Navigation issues
-- Location of help/FAQ
-- Lack of system feedback for actions
-- Unclear meaning of Yes/No buttons versus swiping
+Participants generally found the Archenemy concept novel and entertaining, calling it a "Great idea, hilarious", "Really excited, not sure if needed but a fun app", and a "Cool app if [you] want to 'brawl'". The most valued features included the main matchmaking functionality, chat pages, and the overall concept of finding rivals. The confusing aspects included navigation issues, the location of help/FAQ, a lack of system feedback for actions, and an unclear meaning of Yes/No buttons versus swiping.
 
 ## Conclusions
 
