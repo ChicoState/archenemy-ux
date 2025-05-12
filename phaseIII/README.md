@@ -125,82 +125,14 @@ Participants generally found the Archenemy concept novel and entertaining, calli
 
 ## Conclusions
 
-Based on our findings, we recommend the following design improvements:
+Based on our findings, we recommend several design improvements to enhance user experience.
 
-1. **Improve Navigation and Information Architecture**
-   - Move Help/FAQ to a more prominent location in the main navigation
-   - Make the Home/Haters tabs visually distinct from other tabs (enhance visual hierarchy)
-   - Ensure consistent naming between "Help" and "FAQ"
+Navigation and information architecture should be optimized by moving Help/FAQ to a more prominent location, making Home/Haters tabs visually distinct, and ensuring consistent terminology. Feedback mechanisms need enhancement through clear confirmation after matching decisions, notifications for new connections, and visual confirmation of completed actions. Chat functionality would benefit from adding sender names to messages, incorporating expressive elements, and improving visual distinction. Account management could be streamlined by relocating password reset functionality to the Account section, adding real-time profile change previews, and clarifying field purposes. An improved onboarding experience with brief tutorials, clearer matching instructions, and helpful tooltips would benefit first-time users. Visual design enhancements should address color scheme refinements, whitespace reduction, and better image centering.
 
-2. **Enhance Feedback Mechanisms**
-   - Add clear feedback after matching decisions
-   - Implement notifications for new matches/haters
-   - Provide visual confirmation when actions are completed successfully
-
-3. **Refine Chat Functionality**
-   - Add sender names to all messages for clarity
-   - Consider adding emojis or other expressive elements
-   - Provide more visual distinction in the chat interface
-
-4. **Optimize Account Management**
-   - Move password reset functionality to the Account section
-   - Add real-time preview of profile changes while editing
-   - Clarify the purpose of fields like "subtitle"
-
-5. **Improve Onboarding**
-   - Consider adding a brief tutorial or walkthrough for first-time users
-   - Provide clearer instructions for the matching mechanism (Yes/No vs. swiping)
-   - Add tooltips for unfamiliar elements
-
-6. **Visual Design Enhancements**
-   - Improve color scheme/theme
-   - Reduce whitespace in the home page
-   - Better center profile images
-
-### Features to Maintain
-
-The following aspects of the design were validated by our testing and should be maintained:
-
-1. **Account Creation and Editing**
-   - These processes received the highest ease of use ratings
-   - Users found these flows intuitive and straightforward
-
-2. **Overall Layout and Structure**
-   - Users appreciated the clean, simple layout
-   - Basic navigation was generally understood
-
-3. **Core Matchmaking Concept**
-   - Users found the rivalry concept novel and entertaining
-   - The basic match-and-chat flow is working well
-
-4. **Chat Interface Foundation**
-   - While needing some refinements, the basic chat functionality works
-   - Users successfully found and initiated conversations
+Despite these recommendations, certain aspects should be maintained based on positive user feedback: the intuitive account creation and editing processes, clean overall layout, novel matchmaking concept, and fundamental chat interface structure.
 
 ## Caveats
 
-Several limitations should be considered when interpreting our findings:
+Several limitations should be considered when interpreting our findings. Our sample size of six participants is relatively small and may not represent the full diversity of potential users, with half having no prior experience with matching apps. The Figma prototype had limited functionality compared to a real application, potentially affecting user interactions. Testing in a controlled environment may not reflect natural usage contexts, and subjective evaluations like ease-of-use ratings vary based on individual thresholds. The uniqueness of the Archenemy concept may have produced a novelty effect, with long-term engagement potentially differing from first impressions.
 
-1. **Sample Size and Composition**
-   - With only 6 participants, our sample size is relatively small
-   - Participants may not represent the full diversity of potential users
-   - Half of our participants had no prior experience with matching apps
-
-2. **Prototype Limitations**
-   - As a Figma prototype, some interactive elements had limited functionality
-   - In a real application, users might encounter different constraints or performance issues
-   - Some user paths may not have been fully implemented in the prototype
-
-3. **Testing Environment**
-   - The controlled testing environment may not reflect real-world usage contexts
-   - Users might behave differently when using the app in their natural environment
-
-4. **Subjective Evaluations**
-   - Ease of use ratings and likelihood to use are subjective measures
-   - Different users may have different thresholds for what constitutes "easy" or "difficult"
-
-5. **Novelty Effect**
-   - The uniqueness of the Archenemy concept may have influenced initial reactions
-   - Long-term engagement might differ from first impressions
-
-Despite these limitations, our usability evaluation provided valuable insights that will guide the refinement of Archenemy. We could create a more intuitive, engaging, and satisfying user experience by addressing the identified issues while maintaining the strengths of our current design.
+Additionally, as this was our first usability pilot test, our team's inexperience in conducting usability studies may have influenced the testing protocol, moderator techniques, and data interpretation, potentially missing subtle usability issues or user concerns that more experienced researchers might have identified. Despite these limitations, our evaluation provided valuable insights to guide Archenemy's refinement toward a more intuitive, engaging user experience.
