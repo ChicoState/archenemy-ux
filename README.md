@@ -4,7 +4,7 @@ A professional matching platform that helps you find your nemesis! Don't just ge
 
 ## UX Team Members
 
-* **[Alexander Haga](https://github.com/UsabilityEngineering/portfolio-infinimineralex/tree/main)** - Phase I intro and exec. summary, Phase II report, wireframe areas
+* **[Alexander Haga](https://github.com/UsabilityEngineering/portfolio-infinimineralex/tree/main)** - Phase I intro and exec. summary, Phase II report, wireframe areas, Phase III report, graphs, exec summary, some of the pilot study
 * **[Ivan Gavrushenko](https://usabilityengineering.github.io/portfolio-IvanGav/journal/)** - Personas and Scenarios github page, Phase I Conclusion and Caveats
 * **[Caleb Ray](https://github.com/UsabilityEngineering/portfolio-epicgy12)** - Wireframes, Wireframe Walkthrough, Phase I Methods and Findings
 
@@ -50,6 +50,6 @@ To address the identified gaps in our research and design validation, our major 
 
 **Executive Summary**
 
-!!!Put phase II Executive Summary here!!!
+Our Phase III usability testing of the Archenemy prototype yielded promising results with all participants successfully completing core tasks, though with varying degrees of ease. Our takeaways were as such: while account creation and profile editing proved highly intuitive (5.0/5.0), password reset functionality presented navigation challenges (3.8/5.0). Users found the rivalry concept novel and entertaining but expressed moderate likelihood (2.8/5.0) of using the app in real-world contexts. Key recommendations include improving navigation by relocating help/FAQ sections, enhancing system feedback for user actions, refining chat functionality for clarity, and optimizing account management pathways. These insights will guide critical refinements to create a more intuitive and engaging user experience before implementation.
 
 [Full phase III report](phaseIII/)
