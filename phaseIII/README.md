@@ -86,34 +86,14 @@ When asked about their likelihood to use the Archenemy app in real life, partici
 
 ### Qualitative Results
 
-Qualitative data from the think-aloud protocol and debriefing sessions revealed these insights:
+Qualitative data from the think-aloud protocol and debriefing sessions revealed several insights across tasks.
 
-#### Task 1: Account Creation
-- Users found the registration process straightforward and intuitive
-- Some confusion about what the "subtitle" field represented
-- Some users attempted to click on images to select profile pictures
+For account creation, users found the registration process straightforward but expressed confusion about the "subtitle" field and attempted to click images to select profile pictures. 
+During the matchmaking task, users expected more feedback after confirming matches, showed confusion about "Yes" and "No" buttons versus traditional swiping, and wanted a clearer indication of message senders in chats. Password reset functionality proved difficult to locate, with several users searching in the Account section before finding it in Settings, suggesting a need for relocation. 
 
-#### Task 2: Finding and Chatting with an Archenemy
-- Users expected more feedback after clicking "Yes" to confirm a match
-- Some confusion about the meaning of "Yes" and "No" buttons (vs. traditional swiping)
-- Users wanted clearer indication of who sent which messages in the chat
-- Need for notifications when new matches occur
+The FAQ/Help section presented significant navigation challenges, with users attempting multiple paths before discovering it in Settings and expressing confusion about terminology differences. Account editing was straightforward, though users suggested implementing real-time profile change previews. Background context revealed that half of our participants had no prior experience with matching apps, while those familiar valued swiping mechanisms, chat functionality, and profile customization. 
 
-#### Task 3: Password Reset
-- Users had difficulty locating the reset password function
-- Several users looked for it in the Account section before finding it in Settings
-- Suggestions to move this functionality to the Account tab for better findability
-
-#### Task 4: Finding FAQ/Help
-- Users had significant difficulty locating the FAQ/Help section
-- Several navigation paths were attempted before finding it in Settings
-- Confusion about the difference between "Help" and "FAQ"
-- Suggestions that Help should be more prominently displayed in navigation
-
-#### Task 5: Edit Account Information
-- Users found account editing straightforward and easy
-- Suggestions for real-time preview of profile changes
-- Clear and intuitive field editing
+Overall impressions were positive, with participants finding the concept novel and entertaining, particularly valuing the matchmaking functionality and chat features, though navigation issues and insufficient system feedback remained concerns.
 
 ### Background Context
 
