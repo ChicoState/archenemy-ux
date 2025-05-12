@@ -50,6 +50,18 @@ To address the identified gaps in our research and design validation, our major 
 
 **Executive Summary**
 
-Our Phase III usability testing of the Archenemy prototype yielded promising results with all participants successfully completing core tasks, though with varying degrees of ease. Our takeaways were as such: while account creation and profile editing proved highly intuitive (5.0/5.0), password reset functionality presented navigation challenges (3.8/5.0). Users found the rivalry concept novel and entertaining but expressed moderate likelihood (2.8/5.0) of using the app in real-world contexts. Key recommendations include improving navigation by relocating help/FAQ sections, enhancing system feedback for user actions, refining chat functionality for clarity, and optimizing account management pathways. These insights will guide critical refinements to create a more intuitive and engaging user experience before implementation.
+Testing of the Archenemy Prototype went well, validating previous work and providing key takeaways for future development.
+
+Results
+-Core task completion was promising to the initial design of the website. (100%)
+-Account creation and profile editing proved very easy (5.0/5.0)
+-Password Reset Functionality presented navigation challenges (3.8/5.0)
+-Users found the rivalry concept novel and entertaining but only expressed moderate likelihood (2.8/5.0)
+
+Key Recommendations
+-Relocate navigation by relocating help/FAQ sections
+-Enhance system feedback for user actions
+-refining chat functionality for clarity
+-Optimizing account management pathways
 
 [Full phase III report](phaseIII/)
