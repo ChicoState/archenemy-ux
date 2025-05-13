@@ -4,9 +4,9 @@ A professional matching platform that helps you find your nemesis! Don't just ge
 
 ## UX Team Members
 
-* **[Alexander Haga](https://github.com/UsabilityEngineering/portfolio-infinimineralex/tree/main)** - Phase I intro and exec. summary, Phase II report, wireframe areas, Phase III report, graphs, exec summary, some of the pilot study
-* **[Ivan Gavrushenko](https://usabilityengineering.github.io/portfolio-IvanGav/journal/)** - Personas and Scenarios github page, Phase I Conclusion and Caveats
-* **[Caleb Ray](https://github.com/UsabilityEngineering/portfolio-epicgy12)** - Wireframes, Wireframe Walkthrough, Phase I Methods and Findings
+* **[Alexander Haga](https://github.com/UsabilityEngineering/portfolio-infinimineralex/tree/main)** - Phase I intro and exec. summary, Phase II report, wireframe areas, Phase III report, graphs, exec summary, some of the pilot study, User Study Protocol
+* **[Ivan Gavrushenko](https://usabilityengineering.github.io/portfolio-IvanGav/journal/)** - Personas and Scenarios github page, Phase I Conclusion and Caveats, User Study Protocol
+* **[Caleb Ray](https://github.com/UsabilityEngineering/portfolio-epicgy12)** - Wireframes, Wireframe Walkthrough, Phase I Methods and Findings, Phase III Executive Summary, User Study Protocol
 
 # User-Centered Design Artifacts
 
