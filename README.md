@@ -52,13 +52,13 @@ To address the identified gaps in our research and design validation, our major 
 
 Testing of the Archenemy Prototype went well, validating previous work and providing key takeaways for future development.
 
-## Takeaways
+### Takeaways
 1. Core task completion was promising for the initial design of the website. (100%)
 2. Account creation and profile editing proved very easy (5.0/5.0)
 3. Password Reset Functionality presented navigation challenges (3.8/5.0)
 4. Users found the rivalry concept novel and entertaining, but only expressed moderate likelihood (2.8/5.0)
 
-Key Recommendations
+### Key Recommendations
 1. Relocate navigation by relocating the Help/FAQ sections
 2. Enhance system feedback for user actions
 3. Refine chat functionality for clarity
