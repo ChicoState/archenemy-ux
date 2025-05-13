@@ -61,7 +61,7 @@ Results
 Key Recommendations
 -Relocate navigation by relocating help/FAQ sections
 -Enhance system feedback for user actions
--refining chat functionality for clarity
--Optimizing account management pathways
+-Refine chat functionality for clarity
+-Optimize account management pathways
 
 [Full phase III report](phaseIII/)
