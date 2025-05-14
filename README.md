@@ -50,7 +50,7 @@ To address the identified gaps in our research and design validation, our major 
 
 **Executive Summary**
 
-Testing of the Archenemy Prototype went well, validating previous work and providing key takeaways for future development.
+The Phase III testing of the Archenemy Prototype went well, validating previous work and providing key takeaways for future development.
 
 ### Takeaways
 1. Core task completion was promising for the initial design of the website. (100%)
