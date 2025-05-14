@@ -58,7 +58,7 @@ Research questions: Is the profile editing process intuitive? Can users easily u
 
 For each task, we collected both quantitative and qualitative data. Quantitative measures included task completion rates (success/failure), ease of use ratings on a 5-point scale (1=Very Difficult, 5=Very Easy), and the likelihood to use the app in real life (1-5 scale). Qualitative measures were verbal think-aloud comments during task completion, observations of user behavior and navigation paths, and feedback during post-test debriefing.
 
-For a full copy of the Usability Test Protocol, click ![here](https://github.com/ChicoState/archenemy-ux/blob/main/phaseIII/x17%20Draft%20Protocol.pdf)
+For a full copy of the Usability Test Protocol, click [here](https://github.com/ChicoState/archenemy-ux/blob/main/phaseIII/x17%20Draft%20Protocol.pdf)
 
 ## Findings
 
@@ -107,7 +107,7 @@ Participants generally found the Archenemy concept novel and entertaining, calli
 
 ## Conclusions
 
-Based on our findings, we recommend several design improvements to enhance user experience.
+Based on our findings, we recommend several design improvements to enhance the user experience.
 
 Navigation and information architecture should be optimized by moving Help/FAQ to a more prominent location, making Home/Haters tabs visually distinct, and ensuring consistent terminology. Feedback mechanisms need enhancement through clear confirmation after matching decisions, notifications for new connections, and visual confirmation of completed actions. Chat functionality would benefit from adding sender names to messages, incorporating expressive elements, and improving visual distinction.
 
