@@ -58,7 +58,7 @@ Research questions: Is the profile editing process intuitive? Can users easily u
 
 For each task, we collected both quantitative and qualitative data. Quantitative measures included task completion rates (success/failure), ease of use ratings on a 5-point scale (1=Very Difficult, 5=Very Easy), and the likelihood to use the app in real life (1-5 scale). Qualitative measures were verbal think-aloud comments during task completion, observations of user behavior and navigation paths, and feedback during post-test debriefing.
 
-For a full copy of the Usability Test Protocol, click [here](https://github.com/ChicoState/archenemy-ux/blob/main/phaseIII/x17%20Draft%20Protocol.pdf)
+For a full copy of the Usability Test Protocol, click [here](https://github.com/ChicoState/archenemy-ux/blob/main/phaseIII/Archenemy%20Protocol.pdf)
 
 ## Findings
 
